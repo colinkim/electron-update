@@ -4,5 +4,11 @@
     "update": "https://github.com/colinkim/electron-update/releases/download/test1",
     "install": "https://github.com/colinkim/electron-update/releases/download/test1/SafeBackup.Setup.3.2.5.exe",
     "version": "3.2.5"
-  }
+  },
+  "darwin-x64-prod": {
+    "readme": "Second Release",
+    "update": "https://github.com/colinkim/electron-update/releases/download/test2",
+    "install": "https://github.com/colinkim/electron-update/releases/download/test2/SafeBackup-3.2.4.pkg",
+    "version": "3.2.4"
+  },
 }
